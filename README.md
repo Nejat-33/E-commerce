@@ -5,27 +5,13 @@
 [![Vite](https://img.shields.io/badge/bundler-Vite-brightgreen)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/lang-TypeScript-blueviolet)](https://www.typescriptlang.org/)
 
-## Table of Contents
-
-- **About:** Brief project description and goals.
-- **Demo:** How to view the running app or screenshots.
-- **Features:** Key features implemented.
-- **Tech Stack:** Libraries and tools used.
-- **Getting Started:** Install, environment variables, and run instructions.
-- **Scripts:** Common npm scripts available.
-- **Project Structure:** Key files and folders.
-- **Contributing:** How to help and coding standards.
-- **License & Contact:** Licensing and author contact.
-
-## About
-
 This is a modern e-commerce frontend built with Vite, React, and TypeScript. It demonstrates a production-ready project structure with components for product listings, product details, cart, wishlist, user pages, and authentication context.
 
 The project aims to be a starting point for building an online store UI and can be wired to any backend or headless commerce API.
 
 ## Demo
-
-- Run locally (see Getting Started). Screenshots and a deployed demo (if any) can be added here.
+<img width="1311" height="603" alt="Screenshot 2026-06-10 001118" src="https://github.com/user-attachments/assets/d8ac901b-7f09-4ca3-a76b-522aca94e12b" />
+<img width="1239" height="621" alt="Screenshot 2026-06-10 001202" src="https://github.com/user-attachments/assets/54fcf7ca-d716-4c6d-90b7-0ed00f5c23af" />
 
 ## Features
 
@@ -151,14 +137,4 @@ General steps
 2. Deploy contents of the `dist` (or `build`) folder to your host.
 3. Configure rewrites to serve `index.html` for SPA routes.
 
-## License
 
-This project is provided under the MIT License. See `LICENSE` for details.
-
-## Acknowledgements
-
-- Built with Vite, React, and TypeScript.
-
-## Contact
-
-If you have questions or want to collaborate, open an issue or pull request on this repository.
